@@ -33,7 +33,7 @@ The deadline for finishing the article is 31 January
 ## Articles from 2024
 
 
-* [You will like my offer](https://markogolovko.com/blog/you-will-like-my-offer/) by Marko Golovko
+* [You will like my offer](https://github.com/adikusum4/Machine-Learning-zoomcamp/blob/main/14-article/article-optuna.md) by Adi Kusuma
 
 
 ### Past articles
